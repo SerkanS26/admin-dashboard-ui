@@ -1,0 +1,17 @@
+.users {
+  .info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+
+    button {
+      background: white;
+      padding: 10px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      color: #007bff;
+    }
+  }
+}
